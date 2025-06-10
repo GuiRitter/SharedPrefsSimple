@@ -1,4 +1,4 @@
-package com.example.shared_prefs_simple
+package io.github.guiritter.shared_prefs_simple
 
 import io.flutter.embedding.android.FlutterActivity
 
